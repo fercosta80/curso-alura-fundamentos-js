@@ -32,3 +32,15 @@ if (forma === 'quadrado'){
 }
 
 console.log(area)
+
+
+//tipagem dinâmica
+//untyped - não precisa declarar os tipos da variável
+
+let minhaVar = 567;
+minhaVar = 'texto'
+minhaVar = true;
+
+//Multiparadigma
+// O que é ES6 / ES2015 - Versões do JavaScript
+
