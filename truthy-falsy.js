@@ -21,7 +21,7 @@ let varNull = null;
 // console.log(minhaVar);
 // console.log(varNull);
 
-
+//teste
 
 let numero = 3;
 let texto = 'Alura'
