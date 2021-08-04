@@ -43,4 +43,5 @@ minhaVar = true;
 
 //Multiparadigma
 // O que é ES6 / ES2015 - Versões do JavaScript
-
+//Node - node é um ambiente de execução do Javascript fora
+//do navegador.

@@ -1,5 +1,9 @@
 //const numero=1;
-console.log(numero)
+//console.log(numero)
 //const minhaVar = 'oi'
-console.log(minhaVar)
-fdf
+//console.log(minhaVar)
+
+
+// tratamento de erro:
+
+console.error('deu erro')
