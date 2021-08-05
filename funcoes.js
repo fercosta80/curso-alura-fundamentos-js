@@ -10,7 +10,14 @@ function imprimeTexto(texto){
 }
 
 // 2) executa a função (1 ou + mais vezes)
-imprimeTexto('Fernando')
-imprimeTexto('texto1')
+imprimeTexto(soma())
+//imprimeTexto('texto1')
 
 
+// três formas de escrever funções
+
+function soma(){
+    return 2 + 2
+}
+
+//console.log(soma())
